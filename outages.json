@@ -1,0 +1,200 @@
+[
+  {
+    "date": "2014-07-24T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "16:00"
+    },
+    "region": "Wysoka",
+    "desc": "Lipowa, Kutrzeby, Chabrowa, Bratnia, Malinowa."
+  },
+  {
+    "date": "2014-07-24T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "16:00"
+    },
+    "region": "Wrocław Fabryczna",
+    "desc": "Piotrkowska od 1 do 9, od 17 do 35 i od 2 do 98, Świeża od 151 do 171 i od 64 do 98, Górecka od 151 do 153, Jędrzejowska od 36 do 42."
+  },
+  {
+    "date": "2014-07-24T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "16:00"
+    },
+    "region": "Wrocław Krzyki",
+    "desc": "Karmelkowa od 61 do 91 i od 80 do 110, Wałbrzyska od 31 do 43 i od 24 do 52, Kościelna od 21 do 25 i od 20 do 26, Zabrodzka od 2 do 4, Cukrowa od 1 do 3 i od 2 do 6, Sezamkowa od 2 do 6 i 9, Migdałowa 1, Waflowa 1 i 2, Czekoladowa od 1 do 51, 59 i od 2 do 42, Łysogórska 1 i 2, Marcepanowa 1 i 2, Piernikowa od 1 do 3 i od 2 do 4, Komandorska od 1 do 19 i od 18 do 52, Nasypowa od 2 do 4, Swobodna od 2 do 20, Rydza-Śmigłego, Frankowskiego, Obrońców Poczty Gdańskiej od 116 do 148."
+  },
+  {
+    "date": "2014-07-24T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "17:00"
+    },
+    "region": "Wrocław Psie Pole",
+    "desc": "Milicka, Sulmierzycka, Wierzchowicka, Złotowska, Rudawska, Osiecka, Bukowicka, Prusicka, Korzeńska, Sulejowska, Żmigrodzka od 113 do 195 i od 120 do 196 oraz dz.16/2, Torowa, Kamieńskiego od 164 do 188."
+  },
+  {
+    "date": "2014-07-24T00:00:00.000Z",
+    "hours": {
+      "from": "18:00",
+      "to": "20:00"
+    },
+    "region": "Wrocław Krzyki",
+    "desc": "Komandorska 21."
+  },
+  {
+    "date": "2014-07-25T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "08:00"
+    },
+    "region": "Wrocław Stare Miasto",
+    "desc": "Lelewela 14."
+  },
+  {
+    "date": "2014-07-25T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "09:00"
+    },
+    "region": "Wrocław Stare Miasto",
+    "desc": "Piłsudskiego od 47 do 59, Zapolskiej od 2 do 4."
+  },
+  {
+    "date": "2014-07-25T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "16:00"
+    },
+    "region": "Wrocław Krzyki",
+    "desc": "Rydza-Śmigłego, Frankowskiego, Obrońców Poczty Gdańskiej od 116 do 148, Komandorska od 23 do 51, Zaolziańska 22."
+  },
+  {
+    "date": "2014-07-25T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "16:00"
+    },
+    "region": "Wysoka",
+    "desc": "Lipowa, Kutrzeby, Chabrowa, Bratnia, Malinowa."
+  },
+  {
+    "date": "2014-07-25T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "16:00"
+    },
+    "region": "Wrocław Śródmieście",
+    "desc": "Dmowskiego od 7 do 21."
+  },
+  {
+    "date": "2014-07-25T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "16:00"
+    },
+    "region": "Wrocław Fabryczna",
+    "desc": "Główna od 13 do 43, od 47 do 61 i od 20 do 42, Chwałkowska od 1 do 9 i od 2 do 10, Starobielawska od 19 do 35 i od 20 do 26."
+  },
+  {
+    "date": "2014-07-25T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "17:00"
+    },
+    "region": "Wrocław Psie Pole",
+    "desc": "Poświęcka od 1 do 15 i od 2 do 8, Żmigrodzka od 201 do 243 i od 202 do 240, Irysowa z wyjątkiem 1."
+  },
+  {
+    "date": "2014-07-25T00:00:00.000Z",
+    "hours": {
+      "from": "10:00",
+      "to": "13:00"
+    },
+    "region": "Wrocław Stare Miasto",
+    "desc": "Lelewela 8."
+  },
+  {
+    "date": "2014-07-25T00:00:00.000Z",
+    "hours": {
+      "from": "18:00",
+      "to": "20:00"
+    },
+    "region": "Wrocław Krzyki",
+    "desc": "Komandorska 21."
+  },
+  {
+    "date": "2014-07-26T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "08:00"
+    },
+    "region": "Wrocław Stare Miasto",
+    "desc": "Lelewela 14."
+  },
+  {
+    "date": "2014-07-28T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "11:00"
+    },
+    "region": "Wrocław Stare Miasto",
+    "desc": "Piłsudskiego 13, Grabiszyńska od 9 do 25"
+  },
+  {
+    "date": "2014-07-28T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "16:00"
+    },
+    "region": "Wrocław Fabryczna",
+    "desc": "Marszowicka od 1 do 25 i od 2 do 20, Małomicka od 1 do 7 i od 2 do 8, Główna od 145 do 153 i od 144 do 152, Wilkszyńska od 1 do 23 i od 2 do 24, Głębocicka."
+  },
+  {
+    "date": "2014-07-28T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "16:00"
+    },
+    "region": "Wrocław Śródmieście",
+    "desc": "Piastowska 1a, pl. Grunwaldzki od 22 do 26, Grunwaldzka od 53 do 55 i od 60 do 66, Minkowskiego od 1 do 7 i od 2 do 8."
+  },
+  {
+    "date": "2014-07-28T00:00:00.000Z",
+    "hours": {
+      "from": "07:00",
+      "to": "17:00"
+    },
+    "region": "Wrocław Psie Pole",
+    "desc": "Kapliczna, Palisadowa od 7 do 15 i od 12 do 14, Lipska 7, Ostrowska od 29 do 47 i od 38 do 56, Jarocińska, Wieluńska, Krotoszyńska od 31 do 105 i od 18 do 102, Inspektowa."
+  },
+  {
+    "date": "2014-07-28T00:00:00.000Z",
+    "hours": {
+      "from": "08:00",
+      "to": "15:00"
+    },
+    "region": "Wrocław Śródmieście",
+    "desc": "Braci Gierymskich 79."
+  },
+  {
+    "date": "2014-07-28T00:00:00.000Z",
+    "hours": {
+      "from": "08:00",
+      "to": "15:00"
+    },
+    "region": "Wrocław Fabryczna",
+    "desc": "Koszykarska od 33 do 49 i od 30 do 44."
+  },
+  {
+    "date": "2014-07-28T00:00:00.000Z",
+    "hours": {
+      "from": "11:00",
+      "to": "15:00"
+    },
+    "region": "Wrocław Stare Miasto",
+    "desc": "Piłsudskiego od 18 do 38 i od 39 do 43, pl. Muzealny od 9 do 15 i od 8 do 16, Kościuszki od 1 do 5 i 2, Zapolskiej 1."
+  }
+]
