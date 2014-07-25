@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+
+    </head>
+    <body ng-app="outageApp" ng-controller="AppController">
+
+        <div class="container">
+
+            <div class="panel panel-default" ng-repeat="outage in outages ">
+
+              <div class="panel-heading">
+                <h3 class="panel-title">{{ outage.region }}</h3>
+              </div>
+              <div class="panel-body">
+                <p class="text-muted">{{ outage.date | date }} / {{ outage.hours.start }} - {{ outage.hours.end }}</p>
+                {{ outage.desc }}
+              </div>
+            </div>
+
+        </div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.20/angular.min.js"></script>
+        <script src="scripts/app.js"></script>
+
+    </body>
+</html>

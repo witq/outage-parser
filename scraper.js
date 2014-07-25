@@ -4,7 +4,7 @@
 
   var request = require('request'),
       cheerio = require('cheerio'),
-      q       = require('q'),
+      Q       = require('q'),
 
       matchers, scrape, urlTpl;
 
@@ -18,10 +18,10 @@
 
   scrape = function(branchID, regionID) {
 
-    var defer,
+    var deferred,
         url;
 
-    defer = q.defer();
+    deferred = Q.defer();
     url = urlTpl.replace('{%branchID%}', branchID).replace('{%regionID%}', regionID);
 
     request(url, function(error, response, html) {
@@ -36,9 +36,9 @@
           $(tr).find('td').each(function(i, td) {
             var text = $(this).text();
             if(matchers.hours.test(text)) {
-              outage.hours = {}
-              outage.hours.from = text.split(' - ')[0];
-              outage.hours.to = text.split(' - ')[1];
+              outage.hours = {};
+              outage.hours.start = text.split(' - ')[0];
+              outage.hours.end = text.split(' - ')[1];
             } else if (matchers.date.test(text)) {
               outage.date = new Date(text);
             } else {
@@ -51,15 +51,15 @@
           }
         });
 
-        defer.resolve(outages);
+        deferred.resolve(outages);
 
       }
 
-      defer.reject('oops, something went wrong');
+      deferred.reject(error);
 
     });
 
-    return defer.promise;
+    return deferred.promise;
 
   };
 
